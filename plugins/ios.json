@@ -1,0 +1,37 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ionicframework.myapp686494"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ionicframework.myapp686494"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.ionicframework.myapp686494"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ionicframework.myapp686494"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.ionicframework.myapp686494"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ionicframework.myapp686494"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.ionicframework.myapp686494"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "427703799478",
+            "PACKAGE_NAME": "com.ionicframework.myapp686494"
+        }
+    },
+    "dependent_plugins": {}
+}
