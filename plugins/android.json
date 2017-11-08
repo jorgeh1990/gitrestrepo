@@ -7,6 +7,9 @@
         "files": {}
     },
     "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ionicframework.myapp686494"
+        },
         "cordova-plugin-device": {
             "PACKAGE_NAME": "com.ionicframework.myapp686494"
         },

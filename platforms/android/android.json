@@ -120,6 +120,9 @@
         }
     },
     "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ionicframework.myapp686494"
+        },
         "cordova-plugin-device": {
             "PACKAGE_NAME": "com.ionicframework.myapp686494"
         },
@@ -203,6 +206,7 @@
         }
     ],
     "plugin_metadata": {
+        "cordova-plugin-console": "1.1.0",
         "cordova-plugin-device": "1.0.1",
         "cordova-plugin-inappbrowser": "1.4.1-dev",
         "cordova-plugin-splashscreen": "2.1.0",
